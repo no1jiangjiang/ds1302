@@ -1,0 +1,14 @@
+
+State Machine - |ds1302_top|key_filter:key_filter_inst|state_c
+Name state_c.UP state_c.HOLD state_c.DOWN state_c.IDLE 
+state_c.IDLE 0 0 0 0 
+state_c.DOWN 0 0 1 1 
+state_c.HOLD 0 1 0 1 
+state_c.UP 1 0 0 1 
+
+State Machine - |ds1302_top|ds1302_ctrl:ds1302_ctrl_inst|state_c
+Name state_c.DONE state_c.READ state_c.WRITE state_c.IDLE 
+state_c.IDLE 0 0 0 0 
+state_c.WRITE 0 0 1 1 
+state_c.READ 0 1 0 1 
+state_c.DONE 1 0 0 1 

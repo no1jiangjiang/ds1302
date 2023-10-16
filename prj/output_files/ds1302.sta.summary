@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'sys_clk'
+Slack : -5.651
+TNS   : -629.959
+
+Type  : Slow 1200mV 85C Model Setup 'ds1302_intf:ds1302_intf_inst|cnt_clk2[2]'
+Slack : -2.430
+TNS   : -116.098
+
+Type  : Slow 1200mV 85C Model Hold 'sys_clk'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ds1302_intf:ds1302_intf_inst|cnt_clk2[2]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sys_clk'
+Slack : -3.000
+TNS   : -285.530
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ds1302_intf:ds1302_intf_inst|cnt_clk2[2]'
+Slack : -1.487
+TNS   : -83.272
+
+Type  : Slow 1200mV 0C Model Setup 'sys_clk'
+Slack : -5.284
+TNS   : -579.800
+
+Type  : Slow 1200mV 0C Model Setup 'ds1302_intf:ds1302_intf_inst|cnt_clk2[2]'
+Slack : -2.239
+TNS   : -106.515
+
+Type  : Slow 1200mV 0C Model Hold 'sys_clk'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ds1302_intf:ds1302_intf_inst|cnt_clk2[2]'
+Slack : 0.469
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : -3.000
+TNS   : -285.530
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ds1302_intf:ds1302_intf_inst|cnt_clk2[2]'
+Slack : -1.487
+TNS   : -83.272
+
+Type  : Fast 1200mV 0C Model Setup 'sys_clk'
+Slack : -1.871
+TNS   : -197.946
+
+Type  : Fast 1200mV 0C Model Setup 'ds1302_intf:ds1302_intf_inst|cnt_clk2[2]'
+Slack : -1.189
+TNS   : -57.840
+
+Type  : Fast 1200mV 0C Model Hold 'sys_clk'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ds1302_intf:ds1302_intf_inst|cnt_clk2[2]'
+Slack : 0.192
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : -3.000
+TNS   : -205.931
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ds1302_intf:ds1302_intf_inst|cnt_clk2[2]'
+Slack : -1.000
+TNS   : -56.000
+
+------------------------------------------------------------

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Oct 15 17:07:31 2023
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : ds1302
+Top-level Entity Name : ds1302_top
+Family : Cyclone IV E
+Total logic elements : 469
+    Total combinational functions : 361
+    Dedicated logic registers : 246
+Total registers : 246
+Total pins : 7
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
